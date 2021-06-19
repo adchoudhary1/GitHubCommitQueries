@@ -1,2 +1,2 @@
-# GitHubCommitQueries
-Display github users commit in various format
+# GitHubTest
+Display github users commit 
